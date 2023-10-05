@@ -5,8 +5,11 @@ def main():
     print(f"A + B = {a + b}")
     print(f"A * 2 = {a * 2}")
     print(f"A - B = {a - b}")
+<<<<<<< HEAD
     print(f"A * B = {a * b}")
-    print(f"A / B = {a / b}")  # Деление в Python
+    print(f"A / B = {a / b}")  
+=======
+    print(f"A / B = {a / b}")  
 
 if __name__ == "__main__":
     main()
